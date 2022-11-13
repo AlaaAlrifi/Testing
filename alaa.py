@@ -11,3 +11,4 @@ class Person :
 alaa=Person("alaa","ihsan")
 alaa.prit_First_name()
 alaa.prit_Last_name()
+print("alaaaaaaaaaa")
